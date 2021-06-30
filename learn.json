@@ -537,7 +537,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 16,
@@ -567,7 +567,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         }
     ]
 }
